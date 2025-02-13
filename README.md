@@ -1,2 +1,2 @@
 # Tetris_BrickGame
-Implementing the game "Tetris" in the C programming languag
+In this project, I implemented the Tetris game in the C programming language using a structural approach.
